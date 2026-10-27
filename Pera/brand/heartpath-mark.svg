@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 6 80 84">
+<defs>
+<linearGradient id="hpg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFAC31"/><stop offset="1" stop-color="#E8680C"/></linearGradient>
+<mask id="hpm"><rect x="0" y="0" width="100" height="100" fill="#fff"/><path d="M17 71 C35 58 60 50 75 45 C78 42 74 38 64 38 L57 38" fill="none" stroke="#000" stroke-width="4.5" stroke-linecap="round"/></mask>
+</defs>
+<g fill="url(#hpg)">
+<path mask="url(#hpm)" d="M61 12 Q61 9 64 10.5 L85 22 Q87 23 87 26 L87 64 Q87 67 85 68 L64 83.5 Q61 85.5 61 82 Z"/>
+<path d="M17 12 Q17 9 20 9.5 C27 10.5 32 13 32 20 L32 38 L64 38 C73 38 78 40.5 76.5 43.5 C75.5 45 73 45.5 71 46 C58 50 35 58 17 71 Z"/>
+<path d="M17 86 C30 78 46 68 58 60.5 C53 67 50 72 49 79 L49 84 C40 91 26 91 17 86 Z"/>
+</g></svg>
